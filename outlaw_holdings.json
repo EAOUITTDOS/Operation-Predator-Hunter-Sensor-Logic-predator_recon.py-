@@ -1,0 +1,19 @@
+{
+  "parent_entity": "JesseJames Laboratories LLC",
+  "subsidiaries": [
+    {
+      "name": "Outlaw3dPrintingLLC",
+      "focus": "Custom hardware and rapid prototyping"
+    },
+    {
+      "name": "OutlawProjectionLLC",
+      "focus": "Advanced visual and data projection systems"
+    },
+    {
+      "name": "JesseJamesUnlimitedLLC",
+      "focus": "General ventures and branding"
+    }
+  ],
+  "lead_developer": "Outlaw Jesse James",
+  "location": "Flint, MI Lab"
+}
